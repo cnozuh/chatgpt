@@ -1,0 +1,6 @@
+*
+!*.py
+!tests/*.py
+!etc/template_prompt/*.txt
+!requirements.txt
+!data/test_words.csv
